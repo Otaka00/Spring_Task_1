@@ -54,6 +54,16 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
+			<groupId>org.openl</groupId>
+			<artifactId>org.openl.core</artifactId>
+			<version>5.26.5</version>
+		</dependency>
+		<dependency>
+			<groupId>org.openl.rules</groupId>
+			<artifactId>org.openl.rules</artifactId>
+			<version>5.26.5</version>
+		</dependency>
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
